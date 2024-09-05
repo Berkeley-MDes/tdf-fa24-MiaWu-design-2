@@ -1,4 +1,4 @@
-erimented
+
 ---
 
 This week, I installed Rhino 8 and experimented with 3D printing.
