@@ -1,7 +1,7 @@
-
+erimented
 ---
 
-This week, I installed Rhino 8, and tried with 3d print.
+This week, I installed Rhino 8 and experimented with 3D printing.
 
 <img width="500" alt="Screenshot for install rehino 8" src="assets/Screenshot for install rehino 8.png">  <img width="200" alt="Test for 3D print" src="assets/Test3DPrint.jpg">
 
