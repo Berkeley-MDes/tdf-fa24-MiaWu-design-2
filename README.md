@@ -12,14 +12,14 @@ WEEK 02
 
 <img width="500" alt="Screenshot of Rhino Practice 01" src="assets/RhinoPractice01.jpg">  
 <img width="500" alt="Screenshot of Rhino Practice 02" src="assets/RhinoPractice02.jpg">
-<img width="500" alt="Screenshot of Rhino Practice 02 Render" src="RhinoPractice02_Render.jpg">  
-<img width="500" alt="Screenshot of Grasshopper Workflow for Phone Stand design" src="GrasshopperWorkflow_PhoneStand.jpg">
+<img width="500" alt="Screenshot of Rhino Practice 02 Render" src="assets/RhinoPractice02_Render.jpg">  
+<img width="500" alt="Screenshot of Grasshopper Workflow for Phone Stand design" src="assets/GrasshopperWorkflow_PhoneStand.jpg">
 ---
 
 WEEK 03
 
 <img width="500" alt="Screenshot of Rhino Practice 03 iPhone 15 ProMax" src="assets/RhinoPractice03_iPhone15ProMax.jpg">
-<img width="500" alt="Screenshot of Phone Stand Render" src="PhoneStand_Render.jpg">  
+<img width="500" alt="Screenshot of Phone Stand Render" src="assets/PhoneStand_Render.jpg">  
 
 
 ---
