@@ -16,8 +16,10 @@ This week, I installed Rhino 8 and experimented with 3D printing.
 
 ### Key Accomplishments
 <img width="500" alt="Screenshot of Rhino Practice 01" src="assets/RhinoPractice01.jpg">  
-<img width="500" alt="Screenshot of Rhino Practice 02" src="assets/RhinoPractice02.jpg">
+
+<img width="500" alt="Screenshot of Rhino Practice 02" src="assets/RhinoPractice02.jpg"> 
 <img width="500" alt="Rhino Practice 02 Render" src="assets/RhinoPractice02_Render.jpg">  
+
 <img width="500" alt="Screenshot of Grasshopper Workflow for Phone Stand design" src="assets/GrasshopperWorkflow_PhoneStand.jpg">
 
 ---
@@ -31,28 +33,31 @@ This week, I installed Rhino 8 and experimented with 3D printing.
 <img width="500" alt="Phone Stand Render" src="assets/PhoneStand_Render.jpg">  
 <img width="500" alt="Phone Stand Render" src="assets/PhoneStand_Render.jpg">  
 <img width="500" alt="Phone Stand Render" src="assets/PhoneStand_Render.jpg">  
-Here is the [youtube video](https://youtu.be/w1QVZrmQnsk)for showing my design process.
+
+Here is the [youtube video](https://youtu.be/w1QVZrmQnsk) for showing my design process.
 
 ### Ongoing Work
 <img width="500" alt="Screenshot of Problem in Grasshopper with tOpos plugin" src="assets/Grasshopper_problem_topos_plugin.jpg">
 
 ### Resources & Support Needed
-Need help for the **tOpos**. Here is the	[tOpos plugin](https://www.food4rhino.com/en/app/topos)
-
+1. Need help for the **tOpos**. Here is the	[tOpos plugin](https://www.food4rhino.com/en/app/topos)
 Other links I found for guidance how to use the tOpos: 
-- [Topology Optimization with Grasshopper | topos Plugin](https://www.youtube.com/watch?v=-QFdhwXshaQ);
-- [Grasshopper | Recipe | Topology Optimization](https://www.youtube.com/watch?v=H6A2B3QnGv0);
-- [2020-35 LTH Tutorials: Generative Design from Structural Optimization ( tOpos+ Grasshopper )](https://www.youtube.com/watch?v=2TyCVVoG-Do).
+  - [Topology Optimization with Grasshopper | topos Plugin](https://www.youtube.com/watch?v=-QFdhwXshaQ);
+  - [Grasshopper | Recipe | Topology Optimization](https://www.youtube.com/watch?v=H6A2B3QnGv0);
+  - [2020-35 LTH Tutorials: Generative Design from Structural Optimization ( tOpos+ Grasshopper )](https://www.youtube.com/watch?v=2TyCVVoG-Do).
+2. Need help with github coding for image alianment
 
 ### Feedback & Revisions
-Waiting for the video feedback to update this part
+1. Design Reviews
+  - Waiting for the video feedback to update this part
 
 ### Next Steps
-1. documentation for phone stand.
+1. Upcoming Tasks: 
+  - **Deadline: Mounday, Sep 23** documentation for phone stand. 
 2. A Rhino and Grasshopper course I found online, plaining to take it: 
-- [Intro to Grasshopper for Industrial Design](https://www.youtube.com/watch?v=ZP1m0bzNkxQ&list=PLV5rPnGvmequIJmI1R4kq8kIQ7FtKrRiw);
-- [The Grasshopper 3D Structural Mastery - leManoosh Masterclass / Online Course](https://www.youtube.com/watch?v=jKwHNzHK-jg); 
-- [leManoosh Masterclass Website](https://lemanoosh.com/grasshopper-3d-online-courses-for-designers-and-architects/).
+  - [Intro to Grasshopper for Industrial Design](https://www.youtube.com/watch?v=ZP1m0bzNkxQ&list=PLV5rPnGvmequIJmI1R4kq8kIQ7FtKrRiw);
+  - [The Grasshopper 3D Structural Mastery - leManoosh Masterclass / Online Course](https://www.youtube.com/watch?v=jKwHNzHK-jg); 
+  - [leManoosh Masterclass Website](https://lemanoosh.com/grasshopper-3d-online-courses-for-designers-and-architects/).
 
 ---
 
