@@ -32,9 +32,19 @@ This week, I installed Rhino 8 and experimented with 3D printing.
 ### Ongoing Work
 <img width="500" alt="Screenshot of Problem in Grasshopper with tOpos plugin" src="assets/Grasshopper_problem_topos_plugin.jpg">
 
-### Feedback & Revisions
-### Next Steps
+### Resources & Support Needed
+Need help for the tOpos plugin. This is the tOpos plugin link: https://www.food4rhino.com/en/app/topos
+Other links I found for guidance how to use the tOpos:
+https://www.youtube.com/watch?v=-QFdhwXshaQ
+https://www.youtube.com/watch?v=H6A2B3QnGv0
 
+### Feedback & Revisions
+Waiting for the video feedback to update this part
+
+### Next Steps
+documentation for phone stand.
+A Rhino and Grasshopper course I found online, plaining to take it: https://lemanoosh.com/grasshopper-3d-online-courses-for-designers-and-architects/
+ 
 ---
 
 
