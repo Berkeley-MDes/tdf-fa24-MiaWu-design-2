@@ -33,13 +33,12 @@ This week, I installed Rhino 8 and experimented with 3D printing.
 <img width="500" alt="Screenshot of Problem in Grasshopper with tOpos plugin" src="assets/Grasshopper_problem_topos_plugin.jpg">
 
 ### Resources & Support Needed
-Need help for the tOpos plugin. This is the tOpos plugin link: 
-https://www.food4rhino.com/en/app/topos;
+Need help for the **tOpos plugin**. Here is the	[tOpos plugin](https://www.food4rhino.com/en/app/topos)
 
 Other links I found for guidance how to use the tOpos: 
-https://www.youtube.com/watch?v=-QFdhwXshaQ;
-https://www.youtube.com/watch?v=H6A2B3QnGv0;
-https://www.youtube.com/watch?v=2TyCVVoG-Do.
+[Topology Optimization with Grasshopper | topos Plugin](https://www.youtube.com/watch?v=-QFdhwXshaQ);
+[Grasshopper | Recipe | Topology Optimization](https://www.youtube.com/watch?v=H6A2B3QnGv0);
+[2020-35 LTH Tutorials: Generative Design from Structural Optimization ( tOpos+ Grasshopper )](https://www.youtube.com/watch?v=2TyCVVoG-Do).
 
 ### Feedback & Revisions
 Waiting for the video feedback to update this part
