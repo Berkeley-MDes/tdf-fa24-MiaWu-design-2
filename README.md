@@ -4,22 +4,22 @@ WEEK 01
 
 This week, I installed Rhino 8 and experimented with 3D printing. and I am not sure how to change the title of this file, should I create another one in assets and name it "my weekly reports?" if so, how may I enable the file to be seen in the front page?
 
-<img width="500" alt="Screenshot for install rehino 8" src="assets/Screenshot for install rehino 8.png">  <img width="200" alt="Test for 3D print" src="assets/Test3DPrint.jpg">
+<img width="500" alt="Screenshot of install rehino 8" src="assets/Screenshot for install rehino 8.png">  <img width="200" alt="3D print test" src="assets/Test3DPrint.jpg">
 
 ---
 
 WEEK 02
 
-
-<img width="500" alt="Screenshot for install rehino 8" src="assets/Screenshot for install rehino 8.png">  <img width="200" alt="Test for 3D print" src="assets/Test3DPrint.jpg">
-
-
-<img width="500" alt="Screenshot for Rhino Practice 01" src="assets/RhinoPractice01.jpg">  
-<img width="500" alt="Screenshot for Rhino Practice 02" src="assets/RhinoPractice02.jpg">
-
+<img width="500" alt="Screenshot of Rhino Practice 01" src="assets/RhinoPractice01.jpg">  
+<img width="500" alt="Screenshot of Rhino Practice 02" src="assets/RhinoPractice02.jpg">
+<img width="500" alt="Screenshot of Rhino Practice 02" src="RhinoPractice02_Render.jpg">  
 ---
 
 WEEK 03
+
+<img width="500" alt="Screenshot of Grasshopper Workflow for Phone Stand design" src="GrasshopperWorkflow_PhoneStand.jpg">
+
+
 
 ---
 
