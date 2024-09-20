@@ -31,7 +31,7 @@ This week, I installed Rhino 8 and experimented with 3D printing.
 <img width="500" alt="Phone Stand Render" src="assets/PhoneStand_Render.jpg">  
 <img width="500" alt="Phone Stand Render" src="assets/PhoneStand_Render.jpg">  
 <img width="500" alt="Phone Stand Render" src="assets/PhoneStand_Render.jpg">  
-Here is the [youtube video]([https://www.food4rhino.com/en/app/topos](https://youtu.be/w1QVZrmQnsk)) for showing my design process.
+Here is the [youtube video](https://youtu.be/w1QVZrmQnsk)for showing my design process.
 
 ### Ongoing Work
 <img width="500" alt="Screenshot of Problem in Grasshopper with tOpos plugin" src="assets/Grasshopper_problem_topos_plugin.jpg">
