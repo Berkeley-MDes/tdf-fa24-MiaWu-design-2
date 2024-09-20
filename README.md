@@ -1,39 +1,39 @@
-
+# MIA'S WEEKLY REPORT ON DESIGN PROCESS
 ---
-# WEEK 01
+## WEEK 01
 
-## Overview
+### Overview
 This week, I installed Rhino 8 and experimented with 3D printing.
 
-## Key Accomplishments
+### Key Accomplishments
 <img width="500" alt="Screenshot of install rehino 8" src="assets/Screenshot for install rehino 8.png">  <img width="200" alt="3D print test" src="assets/Test3DPrint.jpg">
 
 ---
 
-# WEEK 02
+## WEEK 02
 
-## Overview
+### Overview
 
-## Key Accomplishments
+### Key Accomplishments
 <img width="500" alt="Screenshot of Rhino Practice 01" src="assets/RhinoPractice01.jpg">  
 <img width="500" alt="Screenshot of Rhino Practice 02" src="assets/RhinoPractice02.jpg">
 <img width="500" alt="Rhino Practice 02 Render" src="assets/RhinoPractice02_Render.jpg">  
 <img width="500" alt="Screenshot of Grasshopper Workflow for Phone Stand design" src="assets/GrasshopperWorkflow_PhoneStand.jpg">
 ---
 
-# WEEK 03
+## WEEK 03
 
-## Overview
+### Overview
 
-## Key Accomplishments
+### Key Accomplishments
 <img width="500" alt="Screenshot of Rhino Practice 03 iPhone 15 ProMax" src="assets/RhinoPractice03_iPhone15ProMax.jpg">
 <img width="500" alt="Phone Stand Render" src="assets/PhoneStand_Render.jpg">  
 
-## Ongoing Work
+### Ongoing Work
 <img width="500" alt="Screenshot of Problem in Grasshopper with tOpos plugin" src="assets/Grasshopper_problem_topos_plugin.jpg">
 
-## Feedback & Revisions
-## Next Steps
+### Feedback & Revisions
+### Next Steps
 
 ---
 
