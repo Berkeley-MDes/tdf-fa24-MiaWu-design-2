@@ -1,7 +1,5 @@
 # MIA'S WEEKLY REPORT ON DESIGN PROCESS
-
 ---
-
 ## WEEK 01
 
 ### Overview
@@ -31,12 +29,15 @@ This week, I installed Rhino 8 and experimented with 3D printing.
 ### Key Accomplishments
 <img width="500" alt="Screenshot of Rhino Practice 03 iPhone 15 ProMax" src="assets/RhinoPractice03_iPhone15ProMax.jpg">
 <img width="500" alt="Phone Stand Render" src="assets/PhoneStand_Render.jpg">  
+<img width="500" alt="Phone Stand Render" src="assets/PhoneStand_Render.jpg">  
+<img width="500" alt="Phone Stand Render" src="assets/PhoneStand_Render.jpg">  
+Here is the [youtube video]([https://www.food4rhino.com/en/app/topos](https://youtu.be/w1QVZrmQnsk)) for showing my design process.
 
 ### Ongoing Work
 <img width="500" alt="Screenshot of Problem in Grasshopper with tOpos plugin" src="assets/Grasshopper_problem_topos_plugin.jpg">
 
 ### Resources & Support Needed
-Need help for the **tOpos plugin**. Here is the	[tOpos plugin](https://www.food4rhino.com/en/app/topos)
+Need help for the **tOpos**. Here is the	[tOpos plugin](https://www.food4rhino.com/en/app/topos)
 
 Other links I found for guidance how to use the tOpos: 
 - [Topology Optimization with Grasshopper | topos Plugin](https://www.youtube.com/watch?v=-QFdhwXshaQ);
