@@ -1,11 +1,28 @@
 
 ---
+WEEK 01
 
 This week, I installed Rhino 8 and experimented with 3D printing. and I am not sure how to change the title of this file, should I create another one in assets and name it "my weekly reports?" if so, how may I enable the file to be seen in the front page?
 
 <img width="500" alt="Screenshot for install rehino 8" src="assets/Screenshot for install rehino 8.png">  <img width="200" alt="Test for 3D print" src="assets/Test3DPrint.jpg">
 
 ---
+
+WEEK 02
+
+---
+
+WEEK 03
+
+---
+
+
+
+
+
+
+
+
 
 # Hello DES INV 202 Student!
 Welcome to your new GitHub repository! 
