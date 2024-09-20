@@ -45,9 +45,22 @@ Waiting for the video feedback to update this part
 
 ### Next Steps
 documentation for phone stand.
-A Rhino and Grasshopper course I found online, plaining to take it: https://www.youtube.com/watch?v=jKwHNzHK-jg; https://lemanoosh.com/grasshopper-3d-online-courses-for-designers-and-architects/; https://www.youtube.com/watch?v=ZP1m0bzNkxQ&list=PLV5rPnGvmequIJmI1R4kq8kIQ7FtKrRiw.
+A Rhino and Grasshopper course I found online, plaining to take it: 
+[Intro to Grasshopper for Industrial Design](https://www.youtube.com/watch?v=ZP1m0bzNkxQ&list=PLV5rPnGvmequIJmI1R4kq8kIQ7FtKrRiw).
+[The Grasshopper 3D Structural Mastery - leManoosh Masterclass / Online Course](https://www.youtube.com/watch?v=jKwHNzHK-jg); 
+[leManoosh Masterclass Website](https://lemanoosh.com/grasshopper-3d-online-courses-for-designers-and-architects/); 
  
 ---
+
+
+
+
+
+
+
+
+
+
 
 
 
