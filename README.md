@@ -1,6 +1,6 @@
 
 ---
-WEEK 01
+# WEEK 01
 
 This week, I installed Rhino 8 and experimented with 3D printing.
 
@@ -8,7 +8,7 @@ This week, I installed Rhino 8 and experimented with 3D printing.
 
 ---
 
-WEEK 02
+# WEEK 02
 
 <img width="500" alt="Screenshot of Rhino Practice 01" src="assets/RhinoPractice01.jpg">  
 <img width="500" alt="Screenshot of Rhino Practice 02" src="assets/RhinoPractice02.jpg">
@@ -16,7 +16,7 @@ WEEK 02
 <img width="500" alt="Screenshot of Grasshopper Workflow for Phone Stand design" src="assets/GrasshopperWorkflow_PhoneStand.jpg">
 ---
 
-WEEK 03
+# WEEK 03
 
 <img width="500" alt="Screenshot of Rhino Practice 03 iPhone 15 ProMax" src="assets/RhinoPractice03_iPhone15ProMax.jpg">
 <img width="500" alt="Phone Stand Render" src="assets/PhoneStand_Render.jpg">  
