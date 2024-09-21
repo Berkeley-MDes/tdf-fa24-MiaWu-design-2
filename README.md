@@ -13,13 +13,23 @@ This week, I installed Rhino 8 and experimented with 3D printing.
 ## WEEK 02
 
 ### Overview
+This week’s focus on Rhino, KeyShot, and Grasshopper has helped me build a foundation in computational design. I look forward to expanding these skills further.
 
 ### Key Accomplishments
+1. Learning Basic Rhino
+This week, I followed a Bilibili video course to learn the fundamentals of Rhino. I successfully completed two exercises:
+"神奇宝贝球" (Poké Ball)
+"遥控按钮" (Remote Button)
+These exercises helped me get familiar with Rhino’s interface and basic modeling techniques.
 <img width="500" alt="Screenshot of Rhino Practice 01" src="assets/RhinoPractice01.jpg">  
-
 <img width="500" alt="Screenshot of Rhino Practice 02" src="assets/RhinoPractice02.jpg"> 
+
+2. Exporting 3D Objects and Rendering in KeyShot
+After creating the 3D models in Rhino, I exported them and used KeyShot for rendering. This process allowed me to practice converting designs into photorealistic visuals, which is an essential part of design presentation.
 <img width="500" alt="Rhino Practice 02 Render" src="assets/RhinoPractice02_Render.jpg">  
 
+3. Exploring Grasshopper
+I started working with a Grasshopper file provided to us, where I experimented with modifying some parameters. I also attempted to change existing shapes through Grasshopper, giving me a better understanding of parametric design and computational design workflows.
 <img width="500" alt="Screenshot of Grasshopper Workflow for Phone Stand design" src="assets/GrasshopperWorkflow_PhoneStand.jpg">
 
 ---
