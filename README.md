@@ -79,7 +79,9 @@ For the toothbrush project, I used advanced Grasshopper tools such as "construct
 
 I successfully 3D printed both the phone stand and the toothbrush, reinforcing my skills in turning digital models into physical objects and understanding manufacturing constraints. These activities helped reinforce my understanding of how digital designs are transformed into physical objects, as well as the considerations necessary to ensure precision and efficiency during fabrication.
 
-<img width="500" alt="Phone Stand Render" src="assets/PhoneStand_Render.jpg">   <img width="500" alt="Phone Stand Render" src="assets/PhoneStand_Render.jpg">  
+<img width="500" alt="Phone Stand Photo01" src="assets/PhoneStand01.jpg"> <img width="500" alt="Phone Stand Photo02" src="assets/PhoneStand02.jpg"> <img width="500" alt="Phone Stand Photo03" src="assets/PhoneStand04.jpg"> <img width="500" alt="Phone Stand Photo03" src="assets/PhoneStand04.jpg"> <img width="500" alt="Phone Stand Photo05" src="assets/PhoneStand05.jpg"> <img width="500" alt="Phone Stand Photo06" src="assets/PhoneStand06.jpg"> 
+
+<img width="500" alt="Toothbrush Holder Photo01" src="assets/ToothbrushHolder01.jpg">  <img width="500" alt="Toothbrush Holder Photo02" src="assets/ToothbrushHolder02.jpg">  <img width="500" alt="Toothbrush Holder Photo03" src="assets/ToothbrushHolder03.jpg">  
 
 **5. Experimenting with Plug-ins**
 
