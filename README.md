@@ -36,6 +36,15 @@ After creating the 3D models in Rhino, I exported them and used KeyShot for rend
 I started working with a Grasshopper file provided to us, where I experimented with modifying some parameters. I also attempted to change existing shapes through Grasshopper, giving me a better understanding of parametric design and computational design workflows.
 <img width="500" alt="Screenshot of Grasshopper Workflow for Phone Stand design" src="assets/GrasshopperWorkflow_PhoneStand.jpg">
 
+### Next Steps
+**1. Upcoming Tasks**
+  - **Deadline: Thursday, Sep 19** Complete design process video for phone stand. 
+
+**2. Skill Development**
+  -  Learn about data trees;
+  -  Explore the relationship between geometry and parameters;
+  -  Explore popular Grasshopper plug-ins.
+  -  Plan to implement a small task, toothbrush, to reinforce my learning. 
 ---
 
 ## WEEK 03
