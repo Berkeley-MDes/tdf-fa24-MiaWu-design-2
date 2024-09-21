@@ -3,7 +3,7 @@
 ## WEEK 01
 
 ### Overview
-This week, I installed Rhino 8 and experimented with 3D printing.
+This week, I installed Rhino 8 and began experimenting with 3D printing. These initial steps have helped me get acquainted with the updated software and explore fabrication techniques. Looking forward to diving deeper into these tools in the coming weeks.
 
 ### Key Accomplishments
 <img width="500" alt="Screenshot of install rehino 8" src="assets/Screenshot for install rehino 8.png">  <img width="200" alt="3D print test" src="assets/Test3DPrint.jpg">
