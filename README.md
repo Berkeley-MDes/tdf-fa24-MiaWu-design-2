@@ -1,6 +1,7 @@
 # MIA'S WEEKLY REPORT ON DESIGN PROCESS
 ---
 ## WEEK 01
+08/30/2024 - 09/05/2024
 
 ### Overview
 This week, I installed Rhino 8 and began experimenting with 3D printing. These initial steps have helped me get acquainted with the updated software and explore fabrication techniques. Looking forward to diving deeper into these tools in the coming weeks.
@@ -11,6 +12,7 @@ This week, I installed Rhino 8 and began experimenting with 3D printing. These i
 ---
 
 ## WEEK 02
+09/06/2024 - 09/12/2024
 
 ### Overview
 This week’s focus on Rhino, KeyShot, and Grasshopper has helped me build a foundation in computational design. I look forward to expanding these skills further.
@@ -48,9 +50,10 @@ I started working with a Grasshopper file provided to us, where I experimented w
 ---
 
 ## WEEK 03
+09/13/2024 - 09/19/2024
 
 ### Overview
-This week’s activities contributed to a deeper understanding of systems thinking, human-centered design, and fabrication methods, laying the groundwork for future project work.
+This week’s activities contributed to a deeper understanding of systems thinking, human-centered design, and fabrication methods, laying the groundwork for future project work. These tasks helped deepen my proficiency in Rhino, Grasshopper, and KeyShot while also reinforcing my fabrication skills through 3D printing.
 
 ### Key Accomplishments
 
@@ -108,69 +111,25 @@ Other links I found for guidance how to use the tOpos:
   - [ ]  **Deadline: Mounday, Sep 23b** Complete documentation for the phone stand project. 
 
 **2. Skill Development**
-  - I found an online Rhino and Grasshopper course and plan to take it soon to further improve my skills.
-  - [ ] [Intro to Grasshopper for Industrial Design](https://www.youtube.com/watch?v=ZP1m0bzNkxQ&list=PLV5rPnGvmequIJmI1R4kq8kIQ7FtKrRiw);
-  - [ ] [The Grasshopper 3D Structural Mastery - leManoosh Masterclass / Online Course](https://www.youtube.com/watch?v=jKwHNzHK-jg); 
-  - [ ] [leManoosh Masterclass Website](https://lemanoosh.com/grasshopper-3d-online-courses-for-designers-and-architects/).
+  - [ ] I found an online Rhino and Grasshopper course and plan to take it soon to further improve my skills.
+    - [ ] [Intro to Grasshopper for Industrial Design](https://www.youtube.com/watch?v=ZP1m0bzNkxQ&list=PLV5rPnGvmequIJmI1R4kq8kIQ7FtKrRiw);
+    - [ ] [The Grasshopper 3D Structural Mastery - leManoosh Masterclass / Online Course](https://www.youtube.com/watch?v=jKwHNzHK-jg); 
+    - [ ] [leManoosh Masterclass Website](https://lemanoosh.com/grasshopper-3d-online-courses-for-designers-and-architects/).
+  - [ ] Explore AI integration with Grasshopper to enhance computational design capabilities.
+  - [ ] Use Grasshopper to control a KUKA robot arm, applying parametric design to robotic systems.
+
+---
+
+## WEEK 04
+09/20/2024 - 09/26/2024
 
 ---
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Hello DES INV 202 Student!
-Welcome to your new GitHub repository! 
-
-# Outline
-[week 1](README.md#week-1-example-report-1)
-
-week 2, etc...
-
----
-
-# Github Background Information & Context
-If you’re new to GitHub, you can think of this as a shared file space (like a Google Drive folder, or a like a USB drive that’s hosted online.) 
-
-This is your space to store project files, videos, PDFs, notes, images, etc., and (hopefully, neatly) organize so it's easy for viewers (and you!) to navigate. That said, it’s super easy for you to share any file or folder with us (your TDF instructional team) - just send us the link!  As a start, feel free to simply add images to the `/assets` folder, which is located [here](/assets). 
-
-The specific file that I’m typing into right now is the **README.md** for this repo. 
 ##### (💡 TIP: The .md indicates that we’re using [Markdown formatting.](https://www.markdownguide.org/cheat-sheet/)) #####
 <h6> (💡 TIP 2: GitHub Markdown supports <a href="https://gist.github.com/seanh/13a93686bf4c2cb16e658b3cf96807f2"> <em>HTML formatting</em> too, including emojis 😄</a>, in case that helps!) </h6>
 
 ### :star: Whatever you write in your **README.md** will show up on the “front page” of your GitHub repo. This is where we’ll be looking for your [weekly progress reports](https://github.com/Berkeley-MDes/24f-desinv-202/wiki/3.0-Weekly-Submissions#weekly-progress-report). They might look something like this: ###
-
-# Week 1: Example Report 1 #
-## Week of 09/05/2024
-
-This week, I designed a cool phone stand made of rocks. Check out all my cool sketches and progress photos from this week below, etc., etc....
-
-<img width="200" alt="Cool Phone Stand made of rocks" src="assets/exampleimg.png">
-
----
-
-It's time to start making this space your own! If you want to save these instructions, make a copy.  Also, feel empowered to delete everything in this README.md and start documenting! 
-
-Excited to work with you,
-your TDF teaching team
-
-PS: let us know if you have any questions!!
-
-PPS: 
 
 ## Quick Links, compiled here for your convenience: ##
 
