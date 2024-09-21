@@ -41,10 +41,10 @@ I started working with a Grasshopper file provided to us, where I experimented w
   - **Deadline: Thursday, Sep 19** Complete design process video for phone stand. 
 
 **2. Skill Development**
-  -  Learn about data trees;
-  -  Explore the relationship between geometry and parameters;
-  -  Explore popular Grasshopper plug-ins.
-  -  Plan to implement a small task, toothbrush, to reinforce my learning. 
+  -  To further develop my Grasshopper skills, I plan to learn about data trees, which are essential for managing structured data in complex designs;
+  -  I will explore the relationship between geometry and parameters to better understand how input changes dynamically affect design outputs.;
+  -  I also intend to explore popular Grasshopper plug-ins, such as Kangaroo and Galapagos, to enhance my parametric design capabilities..
+  -  To reinforce my learning, I plan to implement a small task by designing a toothbrush using Grasshopper. 
 ---
 
 ## WEEK 03
@@ -53,7 +53,6 @@ I started working with a Grasshopper file provided to us, where I experimented w
 This week’s activities contributed to a deeper understanding of systems thinking, human-centered design, and fabrication methods, laying the groundwork for future project work.
 
 ### Key Accomplishments
-
 
 <img width="500" alt="Screenshot of Rhino Practice 03 iPhone 15 ProMax" src="assets/RhinoPractice03_iPhone15ProMax.jpg">
 <img width="500" alt="Phone Stand Render" src="assets/PhoneStand_Render.jpg">  
