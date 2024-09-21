@@ -23,8 +23,7 @@ This week, I followed a Bilibili video course to learn the fundamentals of Rhino
 "遥控按钮" (Remote Button)
 These exercises helped me get familiar with Rhino’s interface and basic modeling techniques.
 
-<img width="500" alt="Screenshot of Rhino Practice 01" src="assets/RhinoPractice01.jpg">  
-<img width="500" alt="Screenshot of Rhino Practice 02" src="assets/RhinoPractice02.jpg"> 
+<img width="500" alt="Screenshot of Rhino Practice 01" src="assets/RhinoPractice01.jpg">   <img width="500" alt="Screenshot of Rhino Practice 02" src="assets/RhinoPractice02.jpg"> 
 
 **2. Exporting 3D Objects and Rendering in KeyShot**
 
