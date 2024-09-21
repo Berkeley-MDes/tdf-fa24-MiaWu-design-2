@@ -38,13 +38,14 @@ I started working with a Grasshopper file provided to us, where I experimented w
 
 ### Next Steps
 **1. Upcoming Tasks**
-  - **Deadline: Thursday, Sep 19** Complete design process video for phone stand. 
+  - [x] **Deadline: Thursday, Sep 19** Complete design process video for phone stand. 
 
 **2. Skill Development**
-  -  To further develop my Grasshopper skills, I plan to learn about data trees, which are essential for managing structured data in complex designs;
-  -  I will explore the relationship between geometry and parameters to better understand how input changes dynamically affect design outputs.;
-  -  I also intend to explore popular Grasshopper plug-ins, such as Kangaroo and Galapagos, to enhance my parametric design capabilities..
-  -  To reinforce my learning, I plan to implement a small task by designing a toothbrush using Grasshopper. 
+  - [x]  To further develop my Grasshopper skills, I plan to learn about data trees, which are essential for managing structured data in complex designs;
+  - [x]  I will explore the relationship between geometry and parameters to better understand how input changes dynamically affect design outputs.;
+  - [x]  I also intend to explore popular Grasshopper plug-ins, such as Topos, Kangaroo, and Galapagos, to enhance my parametric design capabilities..
+  - [x]  To reinforce my learning, I plan to implement a small task by designing a toothbrush using Grasshopper. 
+
 ---
 
 ## WEEK 03
@@ -82,6 +83,7 @@ I successfully 3D printed both the phone stand and the toothbrush, reinforcing m
 **5. Experimenting with Plug-ins**
 
 I attempted to use the Topos plugin for an additional task, but I encountered difficulties. This experience provided insight into potential areas for further exploration in plugin usage.
+
 <img width="500" alt="Screenshot of Problem in Grasshopper with tOpos plugin" src="assets/Grasshopper_problem_topos_plugin.jpg"> 
 
 **6. Design Process Video**
@@ -105,13 +107,13 @@ Other links I found for guidance how to use the tOpos:
 
  ### Next Steps
 **1. Upcoming Tasks**
-  - **Deadline: Mounday, Sep 23** Complete documentation for the phone stand project. 
+  - [ ]  **Deadline: Mounday, Sep 23b** Complete documentation for the phone stand project. 
 
 **2. Skill Development**
-  -  I found an online Rhino and Grasshopper course and plan to take it soon to further improve my skills.
-  - [Intro to Grasshopper for Industrial Design](https://www.youtube.com/watch?v=ZP1m0bzNkxQ&list=PLV5rPnGvmequIJmI1R4kq8kIQ7FtKrRiw);
-  - [The Grasshopper 3D Structural Mastery - leManoosh Masterclass / Online Course](https://www.youtube.com/watch?v=jKwHNzHK-jg); 
-  - [leManoosh Masterclass Website](https://lemanoosh.com/grasshopper-3d-online-courses-for-designers-and-architects/).
+  - I found an online Rhino and Grasshopper course and plan to take it soon to further improve my skills.
+  - [ ] [Intro to Grasshopper for Industrial Design](https://www.youtube.com/watch?v=ZP1m0bzNkxQ&list=PLV5rPnGvmequIJmI1R4kq8kIQ7FtKrRiw);
+  - [ ] [The Grasshopper 3D Structural Mastery - leManoosh Masterclass / Online Course](https://www.youtube.com/watch?v=jKwHNzHK-jg); 
+  - [ ] [leManoosh Masterclass Website](https://lemanoosh.com/grasshopper-3d-online-courses-for-designers-and-architects/).
 
 ---
 
