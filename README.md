@@ -41,14 +41,27 @@ I started working with a Grasshopper file provided to us, where I experimented w
 ## WEEK 03
 
 ### Overview
+This week’s activities contributed to a deeper understanding of systems thinking, human-centered design, and fabrication methods, laying the groundwork for future project work.
 
 ### Key Accomplishments
+
+
 <img width="500" alt="Screenshot of Rhino Practice 03 iPhone 15 ProMax" src="assets/RhinoPractice03_iPhone15ProMax.jpg">
 <img width="500" alt="Phone Stand Render" src="assets/PhoneStand_Render.jpg">  
+
+**2. Observing the World and Modeling It Through Data** 
+
+I achieved a basic understanding of how to observe the world and translate those observations into data. Specifically, I focused on collecting and utilizing human factors data, which will help inform design decisions that align with user needs and behaviors. This process is crucial for ensuring that design outcomes are both functional and user-centered.
+
+**5. Fabrication: 3D Printing and Laser Cutting**
+
+I gained hands-on experience with fabrication techniques, including 3D printing and laser cutting. These activities helped reinforce my understanding of how digital designs are transformed into physical objects, as well as the considerations necessary to ensure precision and efficiency during fabrication.
 <img width="500" alt="Phone Stand Render" src="assets/PhoneStand_Render.jpg">  
 <img width="500" alt="Phone Stand Render" src="assets/PhoneStand_Render.jpg">  
 
-Here is the [youtube video](https://youtu.be/w1QVZrmQnsk) for showing my design process.
+**6. Design Process Video**
+
+I have uploaded a video on YouTube showcasing my design process. You can watch it [here](https://youtu.be/w1QVZrmQnsk).
 
 ### Ongoing Work
 <img width="500" alt="Screenshot of Problem in Grasshopper with tOpos plugin" src="assets/Grasshopper_problem_topos_plugin.jpg">
@@ -62,13 +75,15 @@ Other links I found for guidance how to use the tOpos:
 2. Need help with github coding for image alianment
 
 ### Feedback & Revisions
-1. Design Reviews
+**1. Design Reviews**
   - Waiting for the video feedback to update this part
 
-### Next Steps
-1. Upcoming Tasks: 
-  - **Deadline: Mounday, Sep 23** documentation for phone stand. 
-2. A Rhino and Grasshopper course I found online, plaining to take it: 
+ ### Next Steps
+**1. Upcoming Tasks**
+  - **Deadline: Mounday, Sep 23** Complete documentation for the phone stand project. 
+
+**2. Skill Development**
+  -  I found an online Rhino and Grasshopper course and plan to take it soon to further improve my skills.
   - [Intro to Grasshopper for Industrial Design](https://www.youtube.com/watch?v=ZP1m0bzNkxQ&list=PLV5rPnGvmequIJmI1R4kq8kIQ7FtKrRiw);
   - [The Grasshopper 3D Structural Mastery - leManoosh Masterclass / Online Course](https://www.youtube.com/watch?v=jKwHNzHK-jg); 
   - [leManoosh Masterclass Website](https://lemanoosh.com/grasshopper-3d-online-courses-for-designers-and-architects/).
