@@ -54,18 +54,35 @@ This week’s activities contributed to a deeper understanding of systems thinki
 
 ### Key Accomplishments
 
+**1. Completed the Phone Stand Design**
+
+I finalized the phone stand design using various Grasshopper components, including "polygon," "division," "move," "rotate 3D," "explode," "shift list," "shortest list," "extrude point," "surface," and "brep join." These operations helped me create a precise and optimized design.
+
 <img width="500" alt="Screenshot of Rhino Practice 03 iPhone 15 ProMax" src="assets/RhinoPractice03_iPhone15ProMax.jpg">
+
+**2. Rendered the Phone Stand in KeyShot**
+
+After completing the design, I rendered the phone stand with a phone in KeyShot to generate realistic visuals, further honing my rendering and presentation skills.
+
 <img width="500" alt="Phone Stand Render" src="assets/PhoneStand_Render.jpg">  
 
-**2. Observing the World and Modeling It Through Data** 
+**3. Toothbrush Design in Grasshopper**
 
-I achieved a basic understanding of how to observe the world and translate those observations into data. Specifically, I focused on collecting and utilizing human factors data, which will help inform design decisions that align with user needs and behaviors. This process is crucial for ensuring that design outcomes are both functional and user-centered.
+For the toothbrush project, I used advanced Grasshopper tools such as "construct domain," "range," "scale," "graph mapper," "loft," and "mirror" to develop a parametric model. This project deepened my understanding of how to manipulate parameters to create custom shapes.
 
-**5. Fabrication: 3D Printing and Laser Cutting**
+<img width="500" alt="Phone Stand Render" src="assets/PhoneStand_Render.jpg">  
 
-I gained hands-on experience with fabrication techniques, including 3D printing and laser cutting. These activities helped reinforce my understanding of how digital designs are transformed into physical objects, as well as the considerations necessary to ensure precision and efficiency during fabrication.
+**4. Fabrication: 3D Printed Both Designs**
+
+I successfully 3D printed both the phone stand and the toothbrush, reinforcing my skills in turning digital models into physical objects and understanding manufacturing constraints. These activities helped reinforce my understanding of how digital designs are transformed into physical objects, as well as the considerations necessary to ensure precision and efficiency during fabrication.
+
 <img width="500" alt="Phone Stand Render" src="assets/PhoneStand_Render.jpg">  
 <img width="500" alt="Phone Stand Render" src="assets/PhoneStand_Render.jpg">  
+
+**5. Experimenting with Plug-ins**
+
+I attempted to use the Topos plugin for an additional task, but I encountered difficulties. This experience provided insight into potential areas for further exploration in plugin usage.
+<img width="500" alt="Screenshot of Problem in Grasshopper with tOpos plugin" src="assets/Grasshopper_problem_topos_plugin.jpg"> 
 
 **6. Design Process Video**
 
