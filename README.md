@@ -61,13 +61,13 @@ This week’s activities contributed to a deeper understanding of systems thinki
 
 I finalized the phone stand design using various Grasshopper components, including "polygon," "division," "move," "rotate 3D," "explode," "shift list," "shortest list," "extrude point," "surface," and "brep join." These operations helped me create a precise and optimized design.
 
-<img width="500" alt="Screenshot of Rhino Practice 03 iPhone 15 ProMax" src="assets/RhinoPractice03_iPhone15ProMax.jpg">
+<img width="500" alt="Screenshot of Rhino Practice 03 iPhone 15 ProMax" src="assets/RhinoPractice03_iPhone15ProMax.jpg"> <img width="500" alt="Grasshopper Workflow of Phone Stand Design" src="assets/GrasshopperWorkflow_PhoneStand.jpg">  
 
 **2. Rendered the Phone Stand in KeyShot**
 
 After completing the design, I rendered the phone stand with a phone in KeyShot to generate realistic visuals, further honing my rendering and presentation skills.
 
-<img width="500" alt="Phone Stand Render" src="assets/PhoneStand_Render.jpg">  
+<img width="500" alt="Phone Stand Render" src="assets/PhoneStand_Render.jpg"> 
 
 **3. Toothbrush Design in Grasshopper**
 
