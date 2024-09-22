@@ -117,6 +117,7 @@ Other links I found for guidance how to use the tOpos:
     - [ ] [Intro to Grasshopper for Industrial Design](https://www.youtube.com/watch?v=ZP1m0bzNkxQ&list=PLV5rPnGvmequIJmI1R4kq8kIQ7FtKrRiw);
     - [ ] [The Grasshopper 3D Structural Mastery - leManoosh Masterclass / Online Course](https://www.youtube.com/watch?v=jKwHNzHK-jg); 
     - [ ] [leManoosh Masterclass Website](https://lemanoosh.com/grasshopper-3d-online-courses-for-designers-and-architects/).
+    - [ ] [Rhino犀牛曲面建模游戏手柄（分面/渐消面）](https://www.bilibili.com/video/BV1TgHVecExu/?spm_id_from=333.1007.tianma.1-1-1.click&vd_source=5d001a633461e1277753b36691acb030)
   - [ ] Explore AI integration with Grasshopper to enhance computational design capabilities.
   - [ ] Use Grasshopper to control a KUKA robot arm, applying parametric design to robotic systems.
 
