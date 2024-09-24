@@ -141,7 +141,7 @@ This week, I made significant progress in mastering the Topos plugin in Grasshop
 
 I completed my second phone stand design using the Topos plugin in Grasshopper and Rhino. The design includes optimized structural elements for stability and integrates with my personalized aesthetic and functional requirements. The result showcases how generative design can enhance both form and function, making the stand stable yet material-efficient.
 
-<img width="300" alt="Phone Stand Topos Process 01" src="assets/PhoneStand_Topos_Process01.png">  <img width="300" alt="Phone Stand Topos Process 02" src="assets/PhoneStand_Topos_Process02.png">  <img width="300" alt="Phone Stand Topos Process 03" src="assets/PhoneStand_Topos_Process03.png">  
+<img width="308" alt="Phone Stand Topos Process 01" src="assets/PhoneStand_Topos_Process01.png">  <img width="262" alt="Phone Stand Topos Process 02" src="assets/PhoneStand_Topos_Process02.png">  <img width="324" alt="Phone Stand Topos Process 03" src="assets/PhoneStand_Topos_Process03.png">  
 
 
 **3. Finished Documentation for Project 1** 
