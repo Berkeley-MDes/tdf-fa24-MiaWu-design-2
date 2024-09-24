@@ -135,11 +135,14 @@ This week’s activities contributed to a deeper understanding of systems thinki
 
 This week, I made significant progress in mastering the Topos plugin in Grasshopper. I successfully input material properties, set up boundary conditions, and ran multiple optimization iterations. This allowed me to generate efficient structures, refining my understanding of generative design and material performance within the plugin.
 
-<img width="500" alt="Screenshot of Rhino Practice 03 iPhone 15 ProMax" 
+
 
 **2. Completed the Second Phone Stand Design** 
 
 I completed my second phone stand design using the Topos plugin in Grasshopper and Rhino. The design includes optimized structural elements for stability and integrates with my personalized aesthetic and functional requirements. The result showcases how generative design can enhance both form and function, making the stand stable yet material-efficient.
+
+<img width="300" alt="PhoneStand Topos Process 01" src="assets/PhoneStand_Topos_Process01.png">  <img width="300" alt="PhoneStand Topos Process 02" src="PhoneStand_Topos_Process02.png">  <img width="300" alt="PhoneStand Topos Process 03" src="assets/PhoneStand_Topos_Process03.png">  
+
 
 **3. Finished Documentation for Project 1** 
 
