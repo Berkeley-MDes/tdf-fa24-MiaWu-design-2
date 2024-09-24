@@ -99,9 +99,9 @@ I have uploaded a video on YouTube showcasing my design process. You can watch i
 ### Resources & Support Needed
 1. Need help for the **tOpos**. Here is the	[tOpos plugin](https://www.food4rhino.com/en/app/topos)
 Other links I found for guidance how to use the tOpos: 
-  - [Topology Optimization with Grasshopper | topos Plugin](https://www.youtube.com/watch?v=-QFdhwXshaQ);
-  - [Grasshopper | Recipe | Topology Optimization](https://www.youtube.com/watch?v=H6A2B3QnGv0);
-  - [2020-35 LTH Tutorials: Generative Design from Structural Optimization ( tOpos+ Grasshopper )](https://www.youtube.com/watch?v=2TyCVVoG-Do).
+  - [x] [Topology Optimization with Grasshopper | topos Plugin](https://www.youtube.com/watch?v=-QFdhwXshaQ);
+  - [x] [Grasshopper | Recipe | Topology Optimization](https://www.youtube.com/watch?v=H6A2B3QnGv0);
+  - [x] [2020-35 LTH Tutorials: Generative Design from Structural Optimization ( tOpos+ Grasshopper )](https://www.youtube.com/watch?v=2TyCVVoG-Do).
 2. Need help with github coding for image alianment
 
 ### Feedback & Revisions
@@ -110,7 +110,7 @@ Other links I found for guidance how to use the tOpos:
 
  ### Next Steps
 **1. Upcoming Tasks**
-  - [ ]  **Deadline: Mounday, Sep 23b** Complete documentation for the phone stand project. 
+  - [x]  **Deadline: Mounday, Sep 23b** Complete documentation for the phone stand project. 
 
 **2. Skill Development**
   - [ ] I found an online Rhino and Grasshopper course and plan to take it soon to further improve my skills.
