@@ -126,6 +126,28 @@ Other links I found for guidance how to use the tOpos:
 ## WEEK 04
 09/20/2024 - 09/26/2024
 
+### Overview
+This week’s activities contributed to a deeper understanding of systems thinking, human-centered design, and fabrication methods, laying the groundwork for future project work. These tasks helped deepen my proficiency in Rhino, Grasshopper, and KeyShot while also reinforcing my fabrication skills through 3D printing.
+
+### Key Accomplishments
+
+**1. Figure out how to use Topos Plugin** 🎉🎉🎉🎉🎉🎉🎉🎉
+
+This week, I made significant progress in mastering the Topos plugin in Grasshopper. I successfully input material properties, set up boundary conditions, and ran multiple optimization iterations. This allowed me to generate efficient structures, refining my understanding of generative design and material performance within the plugin.
+
+<img width="500" alt="Screenshot of Rhino Practice 03 iPhone 15 ProMax" 
+
+**2. Completed the Second Phone Stand Design** 
+
+I completed my second phone stand design using the Topos plugin in Grasshopper and Rhino. The design includes optimized structural elements for stability and integrates with my personalized aesthetic and functional requirements. The result showcases how generative design can enhance both form and function, making the stand stable yet material-efficient.
+
+**3. Finished Documentation for Project 1** 
+
+I also completed all the necessary documentation for Project 1, including detailed explanations of the parametric design process, the design iterations, and how computational tools like Grasshopper and Topos were used. This documentation highlights my process, challenges, and the final outcomes, fulfilling the project’s requirements.
+
+
+
+
 ---
 
 
