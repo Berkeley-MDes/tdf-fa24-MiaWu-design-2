@@ -127,7 +127,7 @@ Other links I found for guidance how to use the tOpos:
 09/20/2024 - 09/26/2024
 
 ### Overview
-This week’s activities contributed to a deeper understanding of systems thinking, human-centered design, and fabrication methods, laying the groundwork for future project work. These tasks helped deepen my proficiency in Rhino, Grasshopper, and KeyShot while also reinforcing my fabrication skills through 3D printing.
+This week, I made significant progress with the Topos plugin in Grasshopper, learning how to input material properties, set boundary conditions, and run optimizations. This helped create efficient structures for my design projects. I also completed the second phone stand design using Topos in Grasshopper and Rhino, ensuring stability while maintaining the aesthetic and functional requirements. Lastly, I finalized the documentation for Project 1, detailing the parametric and generative design processes and outcomes. This week's focus was on advancing my computational design skills and completing key project deliverables.
 
 ### Key Accomplishments
 
