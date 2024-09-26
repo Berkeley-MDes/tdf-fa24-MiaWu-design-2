@@ -135,7 +135,8 @@ This week, I made significant progress with the Topos plugin in Grasshopper, lea
 
 This week, I made significant progress in mastering the Topos plugin in Grasshopper. I successfully input material properties, set up boundary conditions, and ran multiple optimization iterations. This allowed me to generate efficient structures, refining my understanding of generative design and material performance within the plugin.
 
-
+<img width="500" alt="Screenshot of Problem in Grasshopper with tOpos plugin" src="assets/Grasshopper_problem_topos_plugin.jpg"> 
+<img width="500" alt="Screenshot of Problem in Grasshopper with tOpos plugin" src="assets/Grasshopper_problem_topos_plugin.jpg"> 
 
 **2. Completed the Second Phone Stand Design** 
 
@@ -148,8 +149,9 @@ I completed my second phone stand design using the Topos plugin in Grasshopper a
 
 I also completed all the necessary documentation for Project 1, including detailed explanations of the parametric design process, the design iterations, and how computational tools like Grasshopper and Topos were used. This documentation highlights my process, challenges, and the final outcomes, fulfilling the project’s requirements.
 
+**4. Daily life interaction network map** 
 
-
+<img width="500" alt="Daily life interaction network mapn" src="assets/Daily life interaction network map.jpg"> 
 
 ---
 
