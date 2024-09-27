@@ -137,7 +137,6 @@ This week, I made significant progress in mastering the Topos plugin in Grasshop
 
 <img width="500" alt="Topos test" src="assets/Topos_test.png"> 
 <img width="500" alt="Topos test video" src="assets/Topos_test_video.mp4"> 
-<video width="320" height="240" controls> <source src="Topos_test_video.mp4" type="video/mp4">
 
 **2. Completed the Second Phone Stand Design** 
 
