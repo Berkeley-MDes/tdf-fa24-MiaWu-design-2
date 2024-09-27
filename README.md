@@ -151,7 +151,7 @@ I also completed all the necessary documentation for Project 1, including detail
 
 **4. Daily life interaction network map** 
 
-<img width="500" alt="Daily life interaction network map" src="assets/Daily_life_interaction_network_map.jpg"> 
+<img width="500" alt="Daily life interaction network map" src="assets/Daily_life_interaction_network_map.png"> 
 
 ---
 
