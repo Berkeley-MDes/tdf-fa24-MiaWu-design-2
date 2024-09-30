@@ -155,6 +155,13 @@ I also completed all the necessary documentation for Project 1, including detail
 
 ---
 
+## WEEK 05
+09/27/2024 - 10/03/2024
+
+### Overview
+
+usb modem particle doesn't show up in my serial monitor
+
 
 ##### (💡 TIP: The .md indicates that we’re using [Markdown formatting.](https://www.markdownguide.org/cheat-sheet/)) #####
 <h6> (💡 TIP 2: GitHub Markdown supports <a href="https://gist.github.com/seanh/13a93686bf4c2cb16e658b3cf96807f2"> <em>HTML formatting</em> too, including emojis 😄</a>, in case that helps!) </h6>
