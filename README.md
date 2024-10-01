@@ -162,6 +162,8 @@ I also completed all the necessary documentation for Project 1, including detail
 
 usb modem particle doesn't show up in my serial monitor
 
+<img width="300" alt="01_helloworld" src="assets/01_helloworld.png">  <img width="300" alt="02_helloworld_spell" src="assets/02_helloworld_spell.png">  <img width="300" alt="03_altering_periodicity" src="assets/03_altering_periodicity.png">  <img width="300" alt="04_make_it_blink" src="assets/04_make_it_blink.png">  <img width="300" alt="05_make_it_blink_outside" src="assets/05_make_it_blink_outside.png">  <img width="300" alt="06_publishing_info" src="assets/06_publishing_info.png">  <img width="300" alt="07_adding_a_LED" src="assets/07_adding_a_LED.png">  
+
 
 ##### (💡 TIP: The .md indicates that we’re using [Markdown formatting.](https://www.markdownguide.org/cheat-sheet/)) #####
 <h6> (💡 TIP 2: GitHub Markdown supports <a href="https://gist.github.com/seanh/13a93686bf4c2cb16e658b3cf96807f2"> <em>HTML formatting</em> too, including emojis 😄</a>, in case that helps!) </h6>
