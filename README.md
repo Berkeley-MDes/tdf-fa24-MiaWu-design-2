@@ -191,9 +191,8 @@ Used an interrupt function to handle button presses, which allowed for real-time
 Chose appropriate pins that could be used for interrupts, referring to the Photon 2 datasheet for proper pin configuration.
 This project demonstrated how to use user input to alter the behavior of an output component in real time, while effectively handling button input via interrupts.
 
-<img width="300" alt="button led pulse video" src="assets/button_led_pulse_video.mp4"> 
+**button_led_pulse_video.mp4** not sure why it does not showup
 
-  
 **5.FSR-Controlled RGB LED Color**
 
 Designed a system using a Force Sensitive Resistor (FSR) to control the color transitions of an RGB LED.
@@ -204,11 +203,13 @@ The project illustrated the dynamic interaction between sensor input and output 
 
 <img width="300" alt="fsr to ledcolor light off" src="assets/fsr_to_ledcolor1.jpg">  <img width="300" alt="fsr to ledcolor light on" src="assets/fsr_to_ledcolor2.jpg">  
 
-**Challenges**
+**fsr_to_ledcolor.mp4** not sure why it does not showup
+
+**6.Challenges**
 
 Timing Control for LED Delays: Implementing a precise delay between the green and red LEDs required attention to timing in the code. This was achieved using millisecond delay functions but took some experimentation to avoid affecting the "Hello World" transmission.
 
-**Next Steps**
+**7.Next Steps**
 Experiment with additional inputs like potentiometers or sensors to further explore the versatility of the Photon 2.
 Develop a more complex project combining multiple sensors and actuators to build an interactive device.
 
