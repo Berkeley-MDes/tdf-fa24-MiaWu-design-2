@@ -160,9 +160,47 @@ I also completed all the necessary documentation for Project 1, including detail
 
 ### Overview
 
+The goal of this week was to start learning the basics of microcontrollers, including understanding their purpose, architecture, and basic programming to control hardware components. By using the Photon 2, I completed various tasks that involve input/output operations, interrupts, and PWM control.
+
+### Key Accomplishments
+
+**1. Figure out how to use Visual Studio Code**
+
+**2. Basic Microcontroller Setup**
 usb modem particle doesn't show up in my serial monitor
 
-<img width="300" alt="01_helloworld" src="assets/01_helloworld.png">  <img width="300" alt="02_helloworld_spell" src="assets/02_helloworld_spell.png">  <img width="300" alt="03_altering_periodicity" src="assets/03_altering_periodicity.png">  <img width="300" alt="04_make_it_blink" src="assets/04_make_it_blink.png">  <img width="300" alt="05_make_it_blink_outside" src="assets/05_make_it_blink_outside.png">  <img width="300" alt="06_publishing_info" src="assets/06_publishing_info.png">  <img width="300" alt="07_adding_a_LED" src="assets/07_adding_a_LED.png">  
+**3."Hello World" Communication with LED**
+
+<img width="300" alt="01_helloworld" src="assets/01_helloworld.png">  <img width="300" alt="02_helloworld_spell" src="assets/02_helloworld_spell.png">  <img width="300" alt="03_altering_periodicity" src="assets/03_altering_periodicity.png">  <img width="300" alt="04_make_it_blink" src="assets/04_make_it_blink.png">  <img width="300" alt="05_make_it_blink_outside" src="assets/05_make_it_blink_outside.png">  <img width="300" alt="06_publishing_info" src="assets/06_publishing_info.png"> <img width="300" alt="intro helloworld" src="assets/intro_helloworld.jpg"> 
+Programmed the Photon 2 to send "Hello World" to a connected computer.
+Implemented functionality where each letter of the message triggered an LED to light up briefly before sending the next letter.
+
+<img width="300" alt="07_adding_a_LED" src="assets/07_adding_a_LED.png"> <img width="300" alt="intro helloworld add a LED" src="assets/intro_helloworld_addLED.jpg">
+Beyond the basic task, I added a red LED that lights up with a 100ms delay after the green LED. This required additional timing control to achieve the staggered lighting effect.
+
+**4.Button-Controlled LED Pulse Rate**
+Built a project where pressing a button changed the blinking period of an LED.
+Used an interrupt function to handle button presses, which allowed for real-time adjustments in the LED's blink rate.
+Chose appropriate pins that could be used for interrupts, referring to the Photon 2 datasheet for proper pin configuration.
+This project demonstrated how to use user input to alter the behavior of an output component in real time, while effectively handling button input via interrupts.
+<img width="300" alt="07_adding_a_LED" src="assets/07_adding_a_LED.png"> 
+
+  
+**5.FSR-Controlled RGB LED Color**
+Designed a system using a Force Sensitive Resistor (FSR) to control the color transitions of an RGB LED.
+Used PWM fading to smoothly transition between colors as pressure on the FSR increased or decreased.
+Implemented a switch statement to vary the RGB LED’s color output based on the FSR input, which was processed continuously to produce real-time fading effects.
+Ensured correct pin selection for PWM functionality, with careful reference to the Photon 2 datasheet.
+The project illustrated the dynamic interaction between sensor input and output display, utilizing DeviceOS to manage the data processing and actuation.
+<img width="300" alt="fsr to ledcolor light off" src="assets/fsr_to_ledcolor1.jpg">  
+<img width="300" alt="fsr to ledcolor light on" src="assets/fsr_to_ledcolor2.jpg">  
+
+**Challenges**
+Timing Control for LED Delays: Implementing a precise delay between the green and red LEDs required attention to timing in the code. This was achieved using millisecond delay functions but took some experimentation to avoid affecting the "Hello World" transmission.
+
+**Next Steps**
+Experiment with additional inputs like potentiometers or sensors to further explore the versatility of the Photon 2.
+Develop a more complex project combining multiple sensors and actuators to build an interactive device.
 
 
 ##### (💡 TIP: The .md indicates that we’re using [Markdown formatting.](https://www.markdownguide.org/cheat-sheet/)) #####
