@@ -191,7 +191,8 @@ Used an interrupt function to handle button presses, which allowed for real-time
 Chose appropriate pins that could be used for interrupts, referring to the Photon 2 datasheet for proper pin configuration.
 This project demonstrated how to use user input to alter the behavior of an output component in real time, while effectively handling button input via interrupts.
 
-<img width="300" alt="07_adding_a_LED" src="assets/07_adding_a_LED.png"> 
+<video width="300" alt="button led pulse video" src="assets/button_led_pulse_video.mp4"> 
+
 
   
 **5.FSR-Controlled RGB LED Color**
