@@ -1,10 +1,10 @@
 https://github.com/Berkeley-MDes/tdf-fa24-MiaWu-design-2/blob/main/assets/button_led_pulse_video.mp4
 
-
-
 <video width="320">
-  <source src="assets/button_led_pulse_video.mp4." type="video/mp4">
+  <source src="assets/button_led_pulse_video.mp4" type="video/mp4">
 </video>
+
+
 
 # MIA'S WEEKLY REPORT ON DESIGN PROCESS
 ---
@@ -200,6 +200,10 @@ Chose appropriate pins that could be used for interrupts, referring to the Photo
 This project demonstrated how to use user input to alter the behavior of an output component in real time, while effectively handling button input via interrupts.
 
 **button_led_pulse_video.mp4** not sure why it does not showup
+https://github.com/Berkeley-MDes/tdf-fa24-MiaWu-design-2/blob/main/assets/button_led_pulse_video.mp4
+<video width="320">
+  <source src="assets/button_led_pulse_video.mp4." type="video/mp4">
+</video>
 
 **5.FSR-Controlled RGB LED Color**
 
