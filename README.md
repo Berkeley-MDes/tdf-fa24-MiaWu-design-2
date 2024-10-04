@@ -1,5 +1,5 @@
-<video width="320" controls>
-  <source src="fsr_to_ledcolor.mp4" type="fsr_to_ledcolor.mp4">
+<video width="320">
+  <source src="assets/button_led_pulse_video.mp4." type="video/mp4">
 </video>
 
 # MIA'S WEEKLY REPORT ON DESIGN PROCESS
