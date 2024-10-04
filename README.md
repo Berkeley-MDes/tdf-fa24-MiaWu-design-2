@@ -194,7 +194,7 @@ Beyond the basic task, I added a red LED that lights up with a 100ms delay after
 
 **4.Button-Controlled LED Pulse Rate**
 
-Built a project where pressing a button changed the blinking period of an LED.
+Tried a project where pressing a button changed the blinking period of an LED.
 Used an interrupt function to handle button presses, which allowed for real-time adjustments in the LED's blink rate.
 Chose appropriate pins that could be used for interrupts, referring to the Photon 2 datasheet for proper pin configuration.
 This project demonstrated how to use user input to alter the behavior of an output component in real time, while effectively handling button input via interrupts.
@@ -203,7 +203,7 @@ This project demonstrated how to use user input to alter the behavior of an outp
 
 **5.FSR-Controlled RGB LED Color**
 
-Designed a system using a Force Sensitive Resistor (FSR) to control the color transitions of an RGB LED.
+Tried a system using a Force Sensitive Resistor (FSR) to control the color transitions of an RGB LED.
 Used PWM fading to smoothly transition between colors as pressure on the FSR increased or decreased.
 Implemented a switch statement to vary the RGB LED’s color output based on the FSR input, which was processed continuously to produce real-time fading effects.
 Ensured correct pin selection for PWM functionality, with careful reference to the Photon 2 datasheet.
