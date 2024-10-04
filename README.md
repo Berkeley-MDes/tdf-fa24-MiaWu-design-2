@@ -1,3 +1,7 @@
+<video width="320" controls>
+  <source src="fsr_to_ledcolor.mp4" type="fsr_to_ledcolor.mp4">
+</video>
+
 # MIA'S WEEKLY REPORT ON DESIGN PROCESS
 ---
 ## WEEK 01
@@ -203,7 +207,6 @@ The project illustrated the dynamic interaction between sensor input and output 
 
 <img width="300" alt="fsr to ledcolor light off" src="assets/fsr_to_ledcolor1.jpg">  <img width="300" alt="fsr to ledcolor light on" src="assets/fsr_to_ledcolor2.jpg">  
 
-**fsr_to_ledcolor.mp4** not sure why it does not showup
 
 **6.Challenges**
 
