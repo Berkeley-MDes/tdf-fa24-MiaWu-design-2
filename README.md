@@ -236,11 +236,15 @@ This week, I focused on experimenting with various hardware components, includin
 
 **1.Stemma QT and Accel_Gyro**
 Implementation: I successfully integrated the accel_gyro sensor and added an LED to provide real-time visual feedback based on the angle changes. The brightness of the LED increases as the angle grows larger, offering an intuitive representation of the data.
+
 **2. APDS9960 Gesture Sensor and OLED**
 Challenges: I encountered issues when attempting to compile a program that would display the APDS9960 gesture sensor output on an OLED screen. While I worked through various compilation errors, I was unable to resolve them fully this week, but I plan to revisit this next week.
+
 <img width="300" alt="accel_gyro1" src="assets/accel_gyro1.jpg">  <img width="300" alt="accel_gyro2" src="assets/accel_gyro2.jpg">  
+
 **3. Group Project - Berkeley Warn-me Assistance**
 Proposal Completion: As part of a group, we successfully completed the proposal for a Photon2-based Berkeley Warn-me assistance system. This proposal outlines how the Photon2 platform can be used for a campus-wide alert and emergency communication system, integrating various sensors and communication modules.
+
 <img width="300" alt="ADS9960" src="assets/ADS9960_test.jpg"> 
 
 **Next Steps**
