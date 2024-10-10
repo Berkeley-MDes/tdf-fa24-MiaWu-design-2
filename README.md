@@ -225,6 +225,30 @@ Experiment with additional inputs like potentiometers or sensors to further expl
 Develop a more complex project combining multiple sensors and actuators to build an interactive device.
 
 
+## WEEK 06
+10/04/2024 - 10/10/2024
+
+### Overview
+
+This week, I focused on experimenting with various hardware components, including the Stemma QT, accel_gyro, and APDS9960 gesture sensor. In addition, I contributed to our group proposal for a Photon2-based Berkeley Warn-me assistance system.
+
+### Key Accomplishments
+
+**1.Stemma QT and Accel_Gyro**
+Implementation: I successfully integrated the accel_gyro sensor and added an LED to provide real-time visual feedback based on the angle changes. The brightness of the LED increases as the angle grows larger, offering an intuitive representation of the data.
+**2. APDS9960 Gesture Sensor and OLED**
+Challenges: I encountered issues when attempting to compile a program that would display the APDS9960 gesture sensor output on an OLED screen. While I worked through various compilation errors, I was unable to resolve them fully this week, but I plan to revisit this next week.
+<img width="300" alt="fsr to ledcolor light off" src="assets/fsr_to_ledcolor1.jpg">  <img width="300" alt="fsr to ledcolor light on" src="assets/fsr_to_ledcolor2.jpg">  
+**3. Group Project - Berkeley Warn-me Assistance**
+Proposal Completion: As part of a group, we successfully completed the proposal for a Photon2-based Berkeley Warn-me assistance system. This proposal outlines how the Photon2 platform can be used for a campus-wide alert and emergency communication system, integrating various sensors and communication modules.
+<img width="300" alt="fsr to ledcolor light off" src="assets/fsr_to_ledcolor1.jpg">  <img width="300" alt="fsr to ledcolor light on" src="assets/fsr_to_ledcolor2.jpg">  
+
+**Next Steps**
+
+Troubleshoot and resolve the compilation issues with the APDS9960 gesture sensor and OLED display.
+Start working on the implementation of the Photon2-based Berkeley Warn-me assistance project.
+
+
 ##### (💡 TIP: The .md indicates that we’re using [Markdown formatting.](https://www.markdownguide.org/cheat-sheet/)) #####
 <h6> (💡 TIP 2: GitHub Markdown supports <a href="https://gist.github.com/seanh/13a93686bf4c2cb16e658b3cf96807f2"> <em>HTML formatting</em> too, including emojis 😄</a>, in case that helps!) </h6>
 
