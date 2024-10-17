@@ -252,6 +252,38 @@ Proposal Completion: As part of a group, we successfully completed the proposal 
 Troubleshoot and resolve the compilation issues with the APDS9960 gesture sensor and OLED display.
 Start working on the implementation of the Photon2-based Berkeley Warn-me assistance project.
 
+## WEEK 07
+10/04/2024 - 10/10/2024
+
+### Overview
+
+This week, our team made significant progress on the Wearable Device for UCB Safety Assistant. The device is designed to enhance safety by alerting users of dangerous situations using visual cues (RGB LED), vibration feedback, and sensor data. It also integrates with cloud-based APIs and supports communication between multiple devices (Photons). Below is a detailed breakdown of the work completed during this week:
+
+### Key Accomplishments
+
+**1. Component Integration Progress**
+RGB LED and Button Integration
+- Completed the setup of the RGB LED system to indicate different levels of danger through color changes.
+- Green: Button pressed once.
+- Red: Button pressed twice or when loudness exceeds the threshold (e.g., dangerous noise level).
+- Tested button functionality to ensure smooth interaction between single and double presses.
+- The color transitions using PWM (Pulse Width Modulation) were also fine-tuned to improve the visual experience.
+DRV2605L Vibration Motor
+- Configured the DRV2605L vibration motor to respond to danger detection.
+- The motor vibrates was originally set for 10 seconds, we found out this maybe too long, and later set for 2 seconds upon detection of high sound levels (greater than 60 dB) or button double presses, providing users with tactile feedback.
+- Ensured that vibration patterns align with specific alerts, helping users to differentiate between various danger signals.
+- Completed calibration and testing of the vibration motor’s response times and intensity.
+Loudness and Gas Sensors
+- Loudness Sensor: Completed calibration to detect ambient noise levels and set the threshold at 60 dB to trigger red light and vibration.
+Gas Sensor: still not figure out yet
+
+**2. Challenges Faced**
+Sensor Calibration: Initial testing of the gas sensor showed occasional false triggers. Adjustments were made to improve accuracy, but further testing is required in real-world scenarios to ensure consistent detection.
+Photon-to-Photon Communication: Real-time communication between multiple Photons presented some latency issues when multiple devices were active in the same network. We are working on optimizing this using Particle Cloud's event model and reducing network delays.
+API Error Handling: Some issues were encountered with API request timeouts during the initial testing phase. These are being addressed by implementing retry mechanisms and better error handling.
+
+
+
 
 ##### (💡 TIP: The .md indicates that we’re using [Markdown formatting.](https://www.markdownguide.org/cheat-sheet/)) #####
 <h6> (💡 TIP 2: GitHub Markdown supports <a href="https://gist.github.com/seanh/13a93686bf4c2cb16e658b3cf96807f2"> <em>HTML formatting</em> too, including emojis 😄</a>, in case that helps!) </h6>
