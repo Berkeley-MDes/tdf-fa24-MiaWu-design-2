@@ -262,17 +262,20 @@ This week, our team made significant progress on the Wearable Device for UCB Saf
 ### Key Accomplishments
 
 **1. Component Integration Progress**
+
 RGB LED and Button Integration
 - Completed the setup of the RGB LED system to indicate different levels of danger through color changes.
 - Green: Button pressed once.
 - Red: Button pressed twice or when loudness exceeds the threshold (e.g., dangerous noise level).
 - Tested button functionality to ensure smooth interaction between single and double presses.
 - The color transitions using PWM (Pulse Width Modulation) were also fine-tuned to improve the visual experience.
+
 DRV2605L Vibration Motor
 - Configured the DRV2605L vibration motor to respond to danger detection.
 - The motor vibrates was originally set for 10 seconds, we found out this maybe too long, and later set for 2 seconds upon detection of high sound levels (greater than 60 dB) or button double presses, providing users with tactile feedback.
 - Ensured that vibration patterns align with specific alerts, helping users to differentiate between various danger signals.
 - Completed calibration and testing of the vibration motor’s response times and intensity.
+
 Loudness and Gas Sensors
 - Loudness Sensor: Completed calibration to detect ambient noise levels and set the threshold at 60 dB to trigger red light and vibration.
 Gas Sensor: still not figure out yet
