@@ -285,6 +285,16 @@ Sensor Calibration: Initial testing of the gas sensor showed occasional false tr
 Photon-to-Photon Communication: Real-time communication between multiple Photons presented some latency issues when multiple devices were active in the same network. We are working on optimizing this using Particle Cloud's event model and reducing network delays.
 API Error Handling: Some issues were encountered with API request timeouts during the initial testing phase. These are being addressed by implementing retry mechanisms and better error handling.
 
+## WEEK 08
+10/04/2024 - 10/10/2024
+
+### Overview
+
+This week, our team made significant progress on the Wearable Device for UCB Safety Assistant. The device is designed to enhance safety by alerting users of dangerous situations using visual cues (RGB LED), vibration feedback, and sensor data. It also integrates with cloud-based APIs and supports communication between multiple devices (Photons). Below is a detailed breakdown of the work completed during this week:
+
+### Key Accomplishments
+
+**1. Component Integration Progress**
 
 
 
