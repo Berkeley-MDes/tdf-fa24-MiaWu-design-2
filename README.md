@@ -298,6 +298,13 @@ This week, our team made significant progress on the Wearable Device for UCB Saf
 
 
 
+## WEEK 12
+11/07/2024 - 11/14/2024
+
+### Overview
+
+
+
 ##### (💡 TIP: The .md indicates that we’re using [Markdown formatting.](https://www.markdownguide.org/cheat-sheet/)) #####
 <h6> (💡 TIP 2: GitHub Markdown supports <a href="https://gist.github.com/seanh/13a93686bf4c2cb16e658b3cf96807f2"> <em>HTML formatting</em> too, including emojis 😄</a>, in case that helps!) </h6>
 
