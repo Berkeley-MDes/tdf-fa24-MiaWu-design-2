@@ -334,21 +334,20 @@ Shifted focus to a new idea: a Smart Shoe for the Visually Impaired, combining s
 
 **2. Design and Planning:**
 
-<img width="308" alt="Vibeway_sketch02" src="assets/Vibeway_sketch02.JPG.jpg">  <img width="262" alt="Vibeway_sketch03" src="assets/Vibeway_sketch03.JPG">  <img width="324" alt="Vibeway_sketch04" src="assets/Vibeway_sketch04.JPG">  
+1. Wrote a detailed proposal for the project, outlining its objectives, technical components, and user benefits.
 
-Created diagrams and sketches to visualize the smart shoe design, including placement of components like vibration motors and sensors.
-Wrote a detailed proposal for the project, outlining its objectives, technical components, and user benefits.
-Technical Experimentation:
+<img width="400" alt="Vibeway_sketch03" src="assets/Vibeway_sketch03.JPG">  <img width="400" alt="Vibeway_sketch04" src="assets/Vibeway_sketch04.JPG">  
 
-**3.Started testing with Photon 2 for integrating hardware:**
+2. Created diagrams and sketches to visualize the smart shoe design, including placement of components like vibration motors and sensors.
+
+**3.Technical Experimentation:**
+
+<img width="400" alt="Vibeway_electronics04" src="assets/Vibeway_electronics04.jpg"> 
+<img width="400" alt="Vibeway_electronics02" src="assets/Vibeway_electronics02.jpg"> 
+<img width="400" alt="Vibeway_electronics03" src="assets/Vibeway_electronics03.jpg"> 
+Started testing with Photon 2 for integrating hardware:
 Connected and configured vibration motors for haptic feedback.
 Tested an ultrasonic sensor for obstacle detection to evaluate its range and reliability.
-Integration of Skills:
-
-**4. Leveraged:**
-Rhino and Grasshopper for initial design and structural modeling.
-Photon 2 for hardware testing.
-AI concepts from the TDF course to explore smart features for the shoe.
 
 ### Next Steps:
   - [x] Continue testing and refining the integration of vibration motors and sensors.
