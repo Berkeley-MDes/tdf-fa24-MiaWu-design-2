@@ -324,8 +324,36 @@ This week demonstrated significant progress in ideation and aligning technical l
 11/15/2024 - 11/21/2024
 
 ### Overview
-this week I draw dragrams and sketches for the shoe design, wrote porposal for it. 
-I started testing with photon2 for vibration motor and ultrasonic sensor.
+This week, I made significant progress in transitioning from ideation to implementation for the Smart Shoe for the Visually Impaired project. After initially proposing a Campus Safety Alert System, I shifted focus to a user-centric assistive technology that integrates skills from the TDF course. I created diagrams and sketches to visualize the shoe's design, wrote a detailed project proposal, and began hardware testing using Photon 2. The experiments included configuring vibration motors for haptic feedback and testing ultrasonic sensors for obstacle detection. By combining computational design, digital ecosystems, and AI-based personalization, this project aims to provide visually impaired individuals with intuitive navigation assistance. This week’s efforts laid the groundwork for further testing, prototyping, and refinement.
+
+### Key Accomplishments
+
+**1. Brainstorming and Ideation:**
+Proposed and discussed the Campus Safety Alert System.
+Shifted focus to a new idea: a Smart Shoe for the Visually Impaired, combining skills learned in the TDF course.
+
+**2. Design and Planning:**
+
+<img width="308" alt="Phone Stand Topos Process 01" src="assets/PhoneStand_Topos_Process01.png">  <img width="262" alt="Phone Stand Topos Process 02" src="assets/PhoneStand_Topos_Process02.png">  <img width="324" alt="Phone Stand Topos Process 03" src="assets/PhoneStand_Topos_Process03.png">  
+
+Created diagrams and sketches to visualize the smart shoe design, including placement of components like vibration motors and sensors.
+Wrote a detailed proposal for the project, outlining its objectives, technical components, and user benefits.
+Technical Experimentation:
+
+**3.Started testing with Photon 2 for integrating hardware:**
+Connected and configured vibration motors for haptic feedback.
+Tested an ultrasonic sensor for obstacle detection to evaluate its range and reliability.
+Integration of Skills:
+
+**4. Leveraged:**
+Rhino and Grasshopper for initial design and structural modeling.
+Photon 2 for hardware testing.
+AI concepts from the TDF course to explore smart features for the shoe.
+
+### Next Steps:
+  - [x] Continue testing and refining the integration of vibration motors and sensors.
+  - [x] Develop a prototype based on the sketches and diagrams, focusing on comfort and functionality.
+  - [x] Plan experiments to test the usability and effectiveness of the haptic feedback system.
 
 
 ## WEEK 14-15
@@ -343,6 +371,7 @@ Match the data between devices and calculate directional cues (e.g., turn left o
 The overall system was mapped out, and Shryas completed the implementation of the code independently.
 
 ### Individual Contributions:
+<img width="308" alt="Phone Stand Topos Process 01" src="assets/PhoneStand_Topos_Process01.png">  <img width="262" alt="Phone Stand Topos Process 02" src="assets/PhoneStand_Topos_Process02.png">  <img width="324" alt="Phone Stand Topos Process 03" src="assets/PhoneStand_Topos_Process03.png">  
 Me:
 Focused on hardware design and integration:
 Determined how to connect electronic components and fit them into a shoe.
@@ -361,15 +390,15 @@ Explored creative and functional solutions for improving under-shoe flexibility.
 
 ### Next Steps
 
-1. Rendering and 3D Modeling:
+  - [x] Rendering and 3D Modeling:
 Finalize all 3D model adjustments to ensure proper fit and functionality of the shoe and integrated components.
 Complete high-quality renderings of the final shoe design and its internal components for documentation and presentation.
-2. 3D Printing:
+  - [x] 3D Printing:
 Print the adjusted 3D models for any required components, ensuring accuracy and durability.
 Sewing and Assembly:
-3. Complete sewing the shoe, integrating all electronic and structural components seamlessly into the design.
+  - [x] Complete sewing the shoe, integrating all electronic and structural components seamlessly into the design.
 Ensure all parts are securely and aesthetically fitted into the shoe.
-4. Design Video:
+  - [x] Design Video:
 Create a professional-quality video showcasing:
 The design process, from conceptualization to prototyping.
 Functional demonstrations of the shoe, including the vibration feedback system and image capture functionality.
