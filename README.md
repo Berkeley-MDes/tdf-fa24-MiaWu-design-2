@@ -334,7 +334,7 @@ Shifted focus to a new idea: a Smart Shoe for the Visually Impaired, combining s
 
 **2. Design and Planning:**
 
-<img width="308" alt="Vibeway_sketch02" src="assets/Vibeway_sketch02.jpg">  <img width="262" alt="Vibeway_sketch03" src="assets/Vibeway_sketch03.JPG">  <img width="324" alt="Vibeway_sketch04" src="assets/Vibeway_sketch04.JPG">  
+<img width="308" alt="Vibeway_sketch02" src="assets/Vibeway_sketch02.JPG.jpg">  <img width="262" alt="Vibeway_sketch03" src="assets/Vibeway_sketch03.JPG">  <img width="324" alt="Vibeway_sketch04" src="assets/Vibeway_sketch04.JPG">  
 
 Created diagrams and sketches to visualize the smart shoe design, including placement of components like vibration motors and sensors.
 Wrote a detailed proposal for the project, outlining its objectives, technical components, and user benefits.
