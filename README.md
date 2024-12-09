@@ -302,16 +302,79 @@ This week, our team made significant progress on the Wearable Device for UCB Saf
 11/07/2024 - 11/14/2024
 
 ### Overview
+this week is the ideation for upcoming project. And finished last project
+
+### Proposal Details:
+The Smart Shoe for the Visually Impaired focuses on:
+Haptic feedback for navigation assistance.
+Real-time obstacle detection and directional guidance.
+Seamless integration of sensors and a microcontroller for processing navigation data.
+This project builds upon the concept of assistive technology, with an aim to empower visually impaired individuals by enhancing mobility and independence.
+
+### Next Steps:
+Refine the design and functionality of the smart shoe prototype.
+Conduct initial experiments to test the integration of haptic feedback, GPS, and data processing.
+Develop a comprehensive user scenario to validate the project's real-world applicability.
+
+### Reflection:
+This week demonstrated significant progress in ideation and aligning technical learning with practical applications. The shift from a campus-focused system to a universal assistive device marks a step toward impactful and inclusive design.
+
 
 ## WEEK 13
 11/15/2024 - 11/21/2024
 
 ### Overview
+this week I draw dragrams and sketches for the shoe design, wrote porposal for it. 
+I started testing with photon2 for vibration motor and ultrasonic sensor.
+
 
 ## WEEK 14-15
 11/22/2024 - 12/05/2024
-
 ### Overview
+
+Team Progress:
+Photon2 and Sensor Integration:
+Shryas and I completed coding for Photon2, vibration motor, pressure sensor, and ultrasonic sensor.
+We discussed and designed a system for directional vibration feedback for the left and right feet.
+Connected to the Google Maps API to:
+Publish location data using one button and another Photon2 device.
+Subscribe to this location data with two additional Photons.
+Match the data between devices and calculate directional cues (e.g., turn left or right).
+The overall system was mapped out, and Shryas completed the implementation of the code independently.
+
+### Individual Contributions:
+Me:
+Focused on hardware design and integration:
+Determined how to connect electronic components and fit them into a shoe.
+Designed, laser-cut, modeled in Rhino, and 3D-printed the CAD files.
+Challenges faced:
+The shoe’s small size and organic shape made placement of components challenging.
+Modeling and iterating the organic shape of the shoe's midsole required significant time and effort.
+
+Shryas:
+Continued to refine the directional feedback system.
+Developed the image capture system, enabling visually impaired users to understand their environment with the aid of LLMs.
+
+Sun-Q:
+Used Grasshopper to design a flexible structure for the shoe's sole.
+Explored creative and functional solutions for improving under-shoe flexibility.
+
+### Next Steps
+
+1. Rendering and 3D Modeling:
+Finalize all 3D model adjustments to ensure proper fit and functionality of the shoe and integrated components.
+Complete high-quality renderings of the final shoe design and its internal components for documentation and presentation.
+2. 3D Printing:
+Print the adjusted 3D models for any required components, ensuring accuracy and durability.
+Sewing and Assembly:
+3. Complete sewing the shoe, integrating all electronic and structural components seamlessly into the design.
+Ensure all parts are securely and aesthetically fitted into the shoe.
+4. Design Video:
+Create a professional-quality video showcasing:
+The design process, from conceptualization to prototyping.
+Functional demonstrations of the shoe, including the vibration feedback system and image capture functionality.
+Use cases, highlighting how the shoe benefits visually impaired users.
+A concise narrative to explain the design’s purpose, innovation, and real-world applications.
 
 
 ##### (💡 TIP: The .md indicates that we’re using [Markdown formatting.](https://www.markdownguide.org/cheat-sheet/)) #####
