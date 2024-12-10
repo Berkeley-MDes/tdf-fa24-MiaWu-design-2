@@ -290,13 +290,68 @@ API Error Handling: Some issues were encountered with API request timeouts durin
 
 ### Overview
 
-This week, our team made significant progress on the Wearable Device for UCB Safety Assistant. The device is designed to enhance safety by alerting users of dangerous situations using visual cues (RGB LED), vibration feedback, and sensor data. It also integrates with cloud-based APIs and supports communication between multiple devices (Photons). Below is a detailed breakdown of the work completed during this week:
+This week, our team finished the design for Safe.
+
+### Key Accomplishments
+
+**1. Component Integration Progress**
+
+Combining data from diverse sensors (loudness, gas, button) while ensuring they work together seamlessly.
+The BME688 sensor's gas readings and loudness sensor data can fluctuate due to changing environmental conditions.
+Setting up secure and reliable communication between the Photon 2 and the Google Maps API through the Particle Cloud.
+The Gas Sensor had trouble accurately detecting nearby alcohol levels.
+
+## WEEK 09
+10/04/2024 - 10/10/2024
+
+### Overview
+
+This week, I finished the Safe report and started on learning LLM with zerowith.
 
 ### Key Accomplishments
 
 **1. Component Integration Progress**
 
 
+## WEEK 10
+10/04/2024 - 10/10/2024
+
+### Overview
+
+This week, I tested LLM with zerowith
+
+### Key Accomplishments
+
+**1. Component Integration Progress**
+
+Mia_GPT_Experiment 01: 
+https://zerowidth.ai/c/demo/NpfceSlDlUSSlIdxB3uU/draft
+Mia_GPT+INSTRUCT_Experiment 01:
+https://zerowidth.ai/c/demo/q0RicmovjAIeD2d64BR0/draft
+Mia_GPT+INSTRUCT+RAG_Experiment 01:
+https://zerowidth.ai/c/demo/sEZqVSx370liQs5YvOQE/draft
+
+## WEEK 11
+10/04/2024 - 10/10/2024
+
+### Overview
+
+This week, I finished mini_mia. Mini_mia is a digital twin agent designed to represent and communicate my journey and work as a designer. It acts as an interactive, AI-powered guide, offering visitors to my portfolio a personalized, conversational experience to explore my projects, process, and philosophy. 
+
+### Key Accomplishments
+
+Mia_GPT+INSTRUCT+RAG+VARIABLE_Experiment 01:
+https://zerowidth.ai/c/demo/8B0HVTdBHEByT8nTzwDu/draft
+Mia_Mini Me: 
+https://zerowidth.ai/c/demo/hb095QJUDpCCWaPZ4dcB/draft
+
+
+**1. Component Integration Progress**
+
+### Next Steps:
+  - [x] visualize this on my portfolio website.
+
+### Reflection:
 
 ## WEEK 12
 11/07/2024 - 11/14/2024
