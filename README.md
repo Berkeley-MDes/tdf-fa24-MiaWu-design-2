@@ -286,7 +286,7 @@ Photon-to-Photon Communication: Real-time communication between multiple Photons
 API Error Handling: Some issues were encountered with API request timeouts during the initial testing phase. These are being addressed by implementing retry mechanisms and better error handling.
 
 ## WEEK 08
-10/04/2024 - 10/10/2024
+10/11/2024 - 10/17/2024
 
 ### Overview
 
@@ -302,7 +302,7 @@ Setting up secure and reliable communication between the Photon 2 and the Google
 The Gas Sensor had trouble accurately detecting nearby alcohol levels.
 
 ## WEEK 09
-10/04/2024 - 10/10/2024
+10/18/2024 - 10/24/2024
 
 ### Overview
 
@@ -314,7 +314,7 @@ This week, I finished the Safe report and started on learning LLM with zerowith.
 
 
 ## WEEK 10
-10/04/2024 - 10/10/2024
+10/25/2024 - 10/31/2024
 
 ### Overview
 
@@ -332,7 +332,7 @@ Mia_GPT+INSTRUCT+RAG_Experiment 01:
 https://zerowidth.ai/c/demo/sEZqVSx370liQs5YvOQE/draft
 
 ## WEEK 11
-10/04/2024 - 10/10/2024
+11/01/2024 - 11/07/2024
 
 ### Overview
 
@@ -354,7 +354,7 @@ https://zerowidth.ai/c/demo/hb095QJUDpCCWaPZ4dcB/draft
 ### Reflection:
 
 ## WEEK 12
-11/07/2024 - 11/14/2024
+11/08/2024 - 11/14/2024
 
 ### Overview
 this week is the ideation for upcoming project. And finished last project
