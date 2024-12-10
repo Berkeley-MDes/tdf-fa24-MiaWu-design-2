@@ -454,7 +454,7 @@ Sewing and Assembly:
 Ensure all parts are securely and aesthetically fitted into the shoe.
   - [x] Design Video:
 Create a professional-quality video showcasing:
-The design process, from conceptualization to prototyping.
+The design process, from conceptualization to prototyping. 
 Functional demonstrations of the shoe, including the vibration feedback system and image capture functionality.
 Use cases, highlighting how the shoe benefits visually impaired users.
 A concise narrative to explain the design’s purpose, innovation, and real-world applications.
